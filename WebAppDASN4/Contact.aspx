@@ -2,16 +2,15 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>Datos de contacto.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
-        <abbr title="Phone">P:</abbr>
-        425.555.0100
+        Juan Manuel de Castro Ortega<br />
+        Desarrollo de Aplicaciones y Servicios en la nubre<br />        
+        Master de Seguridad Informática<br />
+        Universidad de Jaén <br />
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>Email:</strong>   <a href="mailto:jmco0001@red.ujaen.es">jmco0001@red.ujaen.es</a><br />        
     </address>
 </asp:Content>
